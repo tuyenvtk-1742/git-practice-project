@@ -1,4 +1,4 @@
 Test case list
 
-TC-001: Verify the README file exists.
+TC001 - Verify login successfully - EDITED ON GITHUB
 TC-002: Verify the README displays the project name "git-practice-project".
