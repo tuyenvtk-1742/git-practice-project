@@ -4,3 +4,5 @@ TC-001: Verify the README file exists.
 TC-002: Verify the README displays the project name "git-practice-project".
 TC-003: Verify email contact information is displayed correctly
 TC-004: Verify phone contact information can be updated
+TC-005: Verify A
+TC-006: Verify B
